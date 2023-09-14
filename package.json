@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "router-dom": "^2.2.11",
+    "start": "^5.1.0"
+  }
+}
